@@ -2,9 +2,12 @@
 ![13465676](https://github.com/user-attachments/assets/41a02f17-f82d-4031-a0da-64e3556a8af4)
 
 AI Neural - Real-Time Artificial Intelligence Solutions
+
 This project is a study where I developed the homepage of the "AI Neural" website using Vue 3 and Vite. Aiming to provide a modern and performant user interface, this design emphasizes the power and scalability of AI-based solutions.
 
+
 Project Features
+
 Vue 3 Component-Based Architecture: The page was created with reusable and manageable Vue components.
 
 Rapid Development Experience with Vite: It offers an efficient development process thanks to fast compilation and hot module replacement (HMR).
